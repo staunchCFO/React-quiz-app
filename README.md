@@ -1,6 +1,6 @@
 Link the project http://bit.ly/3jiR9aC
 
-## A Simple Quiz Application, Built with React and Typescript
+## A Quiz Application, Built with React and Typescript
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
